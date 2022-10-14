@@ -11,27 +11,29 @@
 https://github.com/Filamer-Christian-University-CCS/devs2022
 
 
-# Clone
+## Clone
 `git clone https://github.com/Filamer-Christian-University-CCS/devs2022.git .`
 
-# Step by step command to push
-# Stage
+## Step by step command to push
+## Stage
 `git add .`
 
-# Commit
+## Commit
 `git commit -m "Added my profile"`
 
-# Push
+## Push
 `git push origin -u branch-name`
 
 
-# Create a new branch
+## Create a new branch
 `git checkout -b branch-name`
 
-# Stash current changes
+## Stash current changes
 `git stash`
 
+## Pop to extract the stashed changes
+`git stash pop`
 
-### IMPORTANT
-# Pull the latest changes from the main branch before pushing the updates
+# IMPORTANT
+## Pull the latest changes from the main branch before pushing the updates
 `git pull`
