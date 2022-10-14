@@ -96,7 +96,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #fff;
+  color: #008fff;
   text-decoration: none;
 }
 
@@ -165,7 +165,7 @@ h6 {
   height: 2px;
   bottom: 3px;
   left: 0;
-  background-color: #1bac91;
+  background-color: #00ffb0;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -182,7 +182,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #fff;
+  color: #008fff;
 }
 
 .navbar .dropdown ul {
@@ -473,7 +473,7 @@ section {
   font-weight: 300;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #21413c;
+  color: #013129;
 }
 
 .section-title p {
@@ -1223,11 +1223,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #1bac91;
+  color: #008fff;
   float: left;
   width: 44px;
   height: 44px;
-  background: #e1f0ee;
+  background: #061d54;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1240,14 +1240,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #21413c;
+  color: #013129;
 }
 
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #43857a;
+  color: #013129;
 }
 
 .contact .info .email p {
@@ -1392,7 +1392,7 @@ section {
 #footer {
   background: black;
   padding: 0 0 30px 0;
-  color: #fff;
+  color: #008fff;
   font-size: 14px;
 }
 
